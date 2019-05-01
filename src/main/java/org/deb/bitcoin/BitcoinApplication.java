@@ -26,7 +26,7 @@ public class BitcoinApplication implements ApplicationRunner {
 
     @RequestMapping("/")
     public String doIt() {
-        return "classpath:resources/templates/bitcoin";
+        return "bitcoin";
     }
 
     @Override
