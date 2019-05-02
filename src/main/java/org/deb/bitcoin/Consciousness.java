@@ -136,6 +136,16 @@ public class Consciousness {
                     "slowly it filled his soul, made it heavy, made it tired, put it to\n" +
                     "sleep.  On the other hand, his senses had become alive, there was much\n" +
                     "they had learned, much they had experienced.\n" +
+                    "\n - Siddhartha, by Herman Hess\n",
+            "He only noticed that this bright and\n" +
+                    "reliable voice inside of him, which had awoken in him at that time and\n" +
+                    "had ever guided him in his best times, had become silent.\n" +
+                    "\n - Siddhartha, by Herman Hess\n",
+            "He had been captured by the world, by lust, covetousness, sloth, and\n" +
+                    "finally also by that vice which he had used to despise and mock the\n" +
+                    "most as the most foolish one of all vices: greed.  Property,\n" +
+                    "possessions, and riches also had finally captured him; they were no\n" +
+                    "longer a game and trifles to him, had become a shackle and a burden.\n" +
                     "\n - Siddhartha, by Herman Hess\n"
 
     };
