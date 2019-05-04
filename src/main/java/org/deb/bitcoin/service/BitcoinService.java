@@ -157,7 +157,7 @@ public class BitcoinService {
      */
     public BitcoinPriceList getDailyPriceMovement() {
         LocalDate now = LocalDate.now();     // The current date and time
-        LocalDate oneDayBefore = now.minus(1, ChronoUnit.DAYS);
+        LocalDate oneDayBefore = now.minus(0, ChronoUnit.DAYS);
         ZonedDateTime zdt = now.atStartOfDay().atZone(ZoneId.of("UTC"));
         ZonedDateTime zdtOneDayBefore = oneDayBefore.atStartOfDay().atZone(ZoneId.of("UTC"));
         return getPriceMovement(zdtOneDayBefore.toEpochSecond() * 1000,zdt.toEpochSecond() * 1000);
